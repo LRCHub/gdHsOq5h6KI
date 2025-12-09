@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "すきにやる",
+  "base_artist": "変態紳士クラブ",
+  "createdAt": "2025-12-09T15:06:29.738775Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "すきにやる",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/01_すきにやる_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "すきにやる - From THE FIRST TAKE",
+      "artist": "HENTAI SHINSHI CLUB",
+      "has_synced": true,
+      "path": "select/02_すきにやる_-_From_THE_FIRST_TAKE_HENTAI_SHINSHI_CLUB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "すきにやる",
+      "artist": "変態紳士クラブ",
+      "has_synced": false,
+      "path": "select/pl_01_すきにやる_変態紳士クラブ.txt"
+    }
+  ]
+}
